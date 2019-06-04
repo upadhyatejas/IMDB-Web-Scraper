@@ -1,0 +1,3 @@
+- Install BeautifulSoup and lxml
+- Scraper is python-based, parsing the webpages using lxml. 
+- BeautifulSoup is used to extract data from  HTML and XML files.
